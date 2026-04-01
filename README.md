@@ -41,26 +41,6 @@
 **Data Science & Testing**<br>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
----
-
-<h3><img src="https://cdn.simpleicons.org/github/gray" width="22" align="top" /> GitHub Analytics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavJD7&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavJD7&theme=radical&hide_border=false&layout=compact" width="48%" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AbhinavJD7&theme=radical&hide_border=false" width="100%" />
-</p>
-
-<h3><img src="https://cdn.simpleicons.org/creds/gray" width="22" align="top" /> Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhinavJD7&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
