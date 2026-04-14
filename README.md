@@ -18,7 +18,7 @@
 <ul>
   <li><img src="https://cdn.simpleicons.org/coderwall/gray" width="14" align="center"/> <b>Focus:</b> Building scalable applications using Java, JavaScript, and Python.</li>
   <li><img src="https://cdn.simpleicons.org/solana/gray" width="14" align="center"/> <b>Learning:</b> Deep-diving into Web3 development with Solana and Rust.</li>
-  <li><img src="https://cdn.simpleicons.org/target/gray" width="14" align="center"/> <b>Achievements:</b> Winner of Smart India Hackathon 2023 & Cognizant GenC Select.</li>
+  <li><img src="https://cdn.simpleicons.org/target/gray" width="14" align="center"/> <b>Achievements:</b> Winner of Smart India Hackathon 2023.</li>
   <li><img src="https://cdn.simpleicons.org/git/gray" width="14" align="center"/> <b>Open Source:</b> Active contributor to projects like Juspay's Neurolink.</li>
 </ul>
 
