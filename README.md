@@ -80,3 +80,34 @@ fn main() {
 
 </div>
 
+---
+
+
+## <img src="https://api.iconify.design/lucide:git-commit.svg?color=%2358A6FF" width="28" align="top" /> Contribution Graph
+
+<div align="center">
+
+[![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhinavJD7&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e96&area=true&hide_border=true)](https://github.com/AbhinavJD7)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhinavJD7/AbhinavJD7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhinavJD7/AbhinavJD7/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AbhinavJD7/AbhinavJD7/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://api.iconify.design/lucide:message-square-quote.svg?color=%2358A6FF" width="24" align="top" /> Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
+
