@@ -45,3 +45,38 @@ fn main() {
     println!("Hi, I'm {} \n{}", me.name, me.role);
     println!("I am currently into: {}", me.langs.join(", "));
 }
+```
+## <img src="https://api.iconify.design/lucide:wrench.svg?color=%2358A6FF" width="28" align="top" /> Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+<br>
+<br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,c,py,js,ts,rust,kotlin,html,css,tailwind,react,nextjs,vue,angular,spring,express&perline=8" />
+</a>
+
+<br><br>
+
+**Web3, AI & Infrastructure**
+<br>
+<br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=solidity,vercel,aws,azure,docker,cloudflare,nginx,linux&perline=8" />
+</a>
+
+<br><br>
+
+**Databases & Tools**
+<br>
+<br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,firebase,git,github,postman,cypress,jest&perline=8" />
+</a>
+
+</div>
+
